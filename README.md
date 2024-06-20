@@ -1,4 +1,4 @@
-# Tridimensional Hydrodynamic Model
+# Tridimensional Hidrodynamic Model
 
 This model is the result of an exercise completed for the Numerical Modelling course taught by Prof. Dr. Joseph Harari at the University of São Paulo.
 
